@@ -4,11 +4,11 @@ import streamlit as st
 # from streamlit_option_menu import option_menu
 
 import pandas as pd
-import numpy as np
+# import numpy as np
 
 
 
-from streamlit_lottie import st_lottie
+# from streamlit_lottie import st_lottie
 
 from PIL import Image
 
@@ -149,7 +149,7 @@ with st.container():
 with col2:
 
     # with st.echo():
-        st_lottie("https://assets5.lottiefiles.com/packages/lf20_V9t630.json")
+        # st_lottie("https://assets5.lottiefiles.com/packages/lf20_V9t630.json")
        
 
 # You can add more features and
